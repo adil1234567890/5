@@ -72,7 +72,7 @@ http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8G
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BOX NATION
 http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/11599?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 (FHD)
-http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5ArHerG6TIv25bPUDvCf3wA/ts?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/f13baa618d28344d01a430ade4a18aa5.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 (SD)
 http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5B8VmPqHUO1VZgvrYMSwJow/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2 (FHD)
