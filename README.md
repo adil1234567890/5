@@ -3,7 +3,7 @@
 http://stream.tvtap.live:8081/live/skysportsnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMSAxMDo0MzowNCBQTSZoYXNoX3ZhbHVlPUxUVkhpVnJTSnRYT3FxNzVBZUN5eXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Entertainment",4 Seven HD
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/72719?checkedby:iptvcat.com
+http://127.0.0.1:57645/proxy/redirectorproxy/H4sIAAAAAAAAABWI226DIABA_wi8dZ0mZrGxW18wrXSKvOGlyopACraS7OPncnIezmFaC94xy5WET9kDtvUAZj2My0P8TtbqBEI_2ANvw0-iaOfv4f-GHZNA3W5A8CSKozfYqfbBoLk7o-XwMlAL5gQ3Fszh8v7xmk222AnzUaZdULl-rhwJS93W3zG6Hp_o576ZOYSzFeXKL3LlFfhwuWKqGlIoEtKpPVXiTEpbV5egzI8r_qSsCKxhJ8p7b9cMcxefMQ2aetX0y9etrDxKUIzGNP0DXgR2yegAAAA=.m3u8
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Entertainment",5 SELECT (FHD)
 http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5qS1gsFFPAwW2KKTblCfrrw/ts?checkedby:iptvcat.com
