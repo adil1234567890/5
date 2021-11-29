@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Entertainment",4 SEVEN.
-http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5_KlZ5w--DjFyC9qN_QcIww/ts?checkedby:iptvcat.com
+http://stream.tvtap.live:8081/live/skysportsnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMSAxMDo0MzowNCBQTSZoYXNoX3ZhbHVlPUxUVkhpVnJTSnRYT3FxNzVBZUN5eXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Entertainment",4 Seven HD
 http://new-pro.tv:8080/waelwael/2r1sBY8wJK/72719?checkedby:iptvcat.com
